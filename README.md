@@ -1,4 +1,4 @@
-# E-Commerce Website for personnal use
+# WP WooCommerce Website for personnal use
 
 This website is for a personnal use, developed by Corentin M. and Bastien C.
 
